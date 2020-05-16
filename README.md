@@ -1,1 +1,6 @@
-# announcements
+# Updates
+
+<p>Welcome to <strong>Beat Sage v2</strong>! In this update, we've released three new experimental features 🧪: <strong>One Saber Levels</strong>, <strong>90 Degree Levels</strong>, and <strong>Obstacles (Walls)</strong>! Thanks to all of you who <strong><a href="https://www.patreon.com/beatsage" target="_blank">supported us on Patreon</a></strong> to make this happen 💟.</p>
+<p>We trained a new AI to build these features, and as such generated levels will be different for all modes including Standard. We feel that <strong>the new model (v2) has better overall flow</strong> than the older model. If you prefer, <strong>the old model (v1) is still accessible</strong> from our new "Advanced Settings" menu (Step 5).</p>
+<p>We've also added a few additional features to this update. You can now <strong>add custom album art</strong> to be displayed in game. You can also <strong>choose your favorite Beat Saber environment</strong>. Prior to this update, Beat Sage would always generate the same level for a given song. We've removed this restriction and it is now possible to <strong>generate as many levels as you like for your favorite songs</strong>!</p>
+<p>We hope you enjoy these additions! Blessings on your Beat Journey.</p>
