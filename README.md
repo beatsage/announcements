@@ -8,7 +8,7 @@ Welcome to **Beat Sage v2**! We're excited to share a plethora of new features w
 * (🧪) **Obstacles (Walls)**
 
 ## Models
-* (new default): **V2**
+* **V2** (new default)
 * **V2-Flow**
 * **V1** (original model)
 
