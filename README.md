@@ -14,5 +14,5 @@ We're excited to share a plethora of new features with you all. Thanks to all of
 
 ## Miscellaneous
 * Custom cover art can now be uploaded
-* Added "Advanced Settings" menu
+* Added “Advanced Settings” menu
 * Game environment now customizable
