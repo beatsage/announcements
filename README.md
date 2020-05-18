@@ -5,7 +5,7 @@ We're excited to share a plethora of new features with you all. Thanks to all of
 ## Modes and Events
 * **One Saber** (🧪)
 * **90 Degrees** (🧪)
-* **Obstacles (Walls)** (🧪)
+* **Obstacles** (🧪)
 
 ## Models
 * **V2** (new default)
