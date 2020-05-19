@@ -1,4 +1,4 @@
-Frequently Asked Questions {.has-text-white .big-section-header}
+Frequently Asked Questions
 ==========================
 
 Is Beat Sage an official service?
