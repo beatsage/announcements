@@ -1,11 +1,6 @@
 Frequently Asked Questions
 ==========================
 
-What is the difference between "V2" and "V2-Flow"?
---------------------------------------------------
-
-When we built the new Beat Sage AI, we identified two different strategies for generating levels from the same neural network that produced fun but different results; we named these models "V2" and "V2-Flow". V2 will typically produce far more song events like bombs and obstacles. V2-Flow tends to produce fewer events and seems overall less creative, but it produces arrow block patterns which are typically more readable and work well for songs with fast tempos ("stream"). Feel free to experiment and choose which model fits your personal playstyle!
-
 Why are some features ‘locked’?
 -------------------------------
 
@@ -37,6 +32,11 @@ Among these ideas are things like integrating Beat Sage directly into VR
 headsets, building a leaderboard system, and adding support for other VR
 rhythm games. If you would like to see any of these features, please
 consider [supporting us on Patreon](https://www.patreon.com/beatsage).
+
+What is the difference between ‘V2’ and ‘V2-Flow’?
+--------------------------------------------------
+
+When we built the new Beat Sage AI, we identified two different strategies for generating levels from the same neural network that produced fun but different results; we named these models "V2" and "V2-Flow". V2 will typically produce far more song events like bombs and obstacles. V2-Flow tends to produce fewer events and seems overall less creative, but it produces arrow block patterns which are typically more readable and work well for songs with fast tempos ("stream"). Feel free to experiment and choose which model fits your personal playstyle!
 
 Will I always get the same level for a given song?
 --------------------------------------------------
