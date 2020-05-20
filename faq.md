@@ -1,12 +1,10 @@
 Frequently Asked Questions
 ==========================
 
-Is Beat Sage an official service?
----------------------------------
+What is the difference between "V2" and "V2-Flow"?
+--------------------------------------------------
 
-Beat Sage was created by two enthusiastic users of Beat Saber, but is
-not in any way affiliated with Beat Saber (the game), or Beat Games (the
-company that works on it).
+When we built the new Beat Sage AI, we identified two different strategies for generating levels from the same neural network that produced fun but different results; we named these models "V2" and "V2-Flow". V2 will typically produce far more song events like bombs and obstacles. V2-Flow tends to produce fewer events and seems overall less creative, but it produces arrow block patterns which are typically more readable and work well for songs with fast tempos ("stream"). Feel free to experiment and choose which model fits your personal playstyle!
 
 Why are some features ‘locked’?
 -------------------------------
@@ -111,9 +109,7 @@ Why are some videos give me an error saying “Sorry, we couldn’t access that 
 -----------------------------------------------------------------------------------
 
 If a song is not available in the United States, our server will not be
-able to process it because we cannot access it. Until we enable support
-for mp3 files, you will have to find a link that is available in the US
-for that song.
+able to process it because we cannot access it. As an alternative, you may upload an MP3 of the same song.
 
 I enabled a song event but there were none in the level, what gives?
 --------------------------------------------------------------------
@@ -131,3 +127,15 @@ please give us feedback by slashing the purple block above. If you have
 general feedback, please let us know by posting in the \#feedback
 channel on [our Discord](https://discord.beatsage.com) or posting on
 [our subreddit](https://www.reddit.com/r/beatsage/)!
+
+Is Beat Sage an official service?
+---------------------------------
+
+Beat Sage was created by two enthusiastic users of Beat Saber, but is
+not in any way affiliated with Beat Saber (the game), or Beat Games (the
+company that works on it).
+
+Can I build other clients and game mods which use Beat Sage?
+------------------------------------------------------------
+
+We are thrilled that many of you have expressed interest in building software which uses Beat Sage! We ask that you please contact us first on Discord so that we can make sure the application you have in mind agrees with our overall vision for Beat Sage. Since we aren't yet officially supporting an API, we reserve the right to modify our backend at any time which may break your 3rd-party application.
