@@ -1,5 +1,7 @@
 # Welcome to Beat Sage V2!
 
+<span class="has-text-color-red">We're currently experiencing some issues with YouTube. If you're having trouble, please try uploading an MP3 instead.</span>
+
 We're excited to share a plethora of new features with you all. Thanks to all of you who **[supported us on Patreon](https://www.patreon.com/beatsage)** to make this happen 💟. Features marked with a 🧪 are considered experimental. Please provide feedback on Discord or by slashing the purple block below.
 
 ## Modes and Events
