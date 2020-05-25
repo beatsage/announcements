@@ -1,4 +1,4 @@
-**🚨 We're currently experincing communication issues with YouTube. If you're having trouble, please try uploading an MP3 instead.**
+**🚨 We're currently experincing communication issues with YouTube. If you're having trouble, please try uploading an MP3 instead 🚨**
 
 # Welcome to Beat Sage V2!
 
