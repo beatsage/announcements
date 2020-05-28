@@ -124,6 +124,11 @@ the **option** to add these events to the generated level. Beat Sage
 will sometimes choose to ignore this power and there's little us humans
 can do to convince it otherwise!
 
+Can I share videos of myself playing Beat Sage?
+-----------------------------------------------
+
+You are absolutely welcome (and encouraged) to share footage of you playing Beat Sage maps anywhere (YouTube, Twitch, etc.) and share on any social channels (Twitter, Instagram, etc.)! If you share on Twitter, tag [@BeatSage_AI](https://twitter.com/beatsage_ai) so we can retweet!
+
 Where should I direct my comments, suggestions, or feedback?
 ------------------------------------------------------------
 
