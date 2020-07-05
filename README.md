@@ -7,4 +7,4 @@ You may now upload levels from Beat Sage to [BeatSaver](https://beatsaver.com)! 
 
 ## 🎶 More songs!
 
-We added support for level creation from several new websites and audio file formats. In addition to YouTube, try pasting a link from ***TikTok***, ***Bandcamp***, ***Mixcloud***, ***Beatport***, or even ***Dropbox*** (note that subscription services like Spotify will not work). In addition to MP3, we now support ***AAC***, ***AIFF***, ***OGG***, ***FLAC***, and ***WAV*** files. We hope this makes it easier than ever to play Beat Saber to your favorite songs!
+We added support for level creation from several new websites and audio file formats. In addition to YouTube, try pasting a link from ***TikTok***, ***Bandcamp***, ***Mixcloud***, or ***Beatport*** (note that subscription services like Spotify will not work). In addition to MP3, we now support ***AAC***, ***AIFF***, ***OGG***, ***FLAC***, and ***WAV*** files. We hope this makes it easier than ever to play Beat Saber to your favorite songs!
