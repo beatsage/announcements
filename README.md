@@ -1,6 +1,6 @@
 # 🛸 BeatSaver arrives!
 
-It is now permitted to upload levels from Beat Sage to [BeatSaver](https://beatsaver.com)! We worked with the folks at BeatSaver to make this happen and are excited about the new possibilities. Once you upload a Beat Sage map to BeatSaver, you may:
+You may now upload levels from Beat Sage to [BeatSaver](https://beatsaver.com)! We worked with the folks at BeatSaver to make this happen and are excited about the new possibilities. Once you upload a Beat Sage map to BeatSaver, you may:
 
 - Use the "!bsr 🔑" command to watch your favorite Beat Saber streamers play your favorite song!
 - Use [BeatSync](https://bsaber.com/beatsync/) to install levels from BeatSaver with one click!
