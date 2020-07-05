@@ -1,18 +1,10 @@
-# Welcome to Beat Sage V2!
+# 🛸 BeatSaver arrives!
 
-We're excited to share a plethora of new features with you all. Thanks to all of you who **[supported us on Patreon](https://www.patreon.com/beatsage)** to make this happen 💟. Features marked with a 🧪 are considered experimental. Please provide feedback on Discord or by slashing the purple block below.
+It is now permitted to upload levels from Beat Sage to [BeatSaver](https://beatsaver.com)! We worked with the folks at BeatSaver to make this happen and are excited about the new possibilities. Once you upload a Beat Sage map to BeatSaver, you may:
 
-## Modes and Events
-* **One Saber** (🧪)
-* **90 Degrees** (🧪)
-* **Obstacles** (🧪)
+- Use the "!bsr 🔑" command to watch your favorite Beat Saber streamers play your favorite song!
+- Use [BeatSync](https://bsaber.com/beatsync/) to install levels from BeatSaver with one click!
 
-## Models
-* **V2** (new default)
-* **V2-Flow**
-* **V1** (original model)
+## 🎶 More songs!
 
-## Miscellaneous
-* Custom cover art can now be uploaded
-* Added “Advanced Settings” menu
-* Game environment now customizable
+We added support for level creation from several new websites and audio file formats. In addition to YouTube, try pasting a link from *TikTok*, *Bandcamp*, *Soundcloud*, and more (note that subscription services like Spotify will not work). In addition to MP3, we now support *AAC*, *AIFF*, *OGG*, *FLAC*, and *WAV* files. We hope this makes it easier than ever to play Beat Saber to your favorite songs!
