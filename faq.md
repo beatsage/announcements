@@ -32,6 +32,11 @@ To activate these features, follow these three easy steps:
 
 If you are having _any_ trouble, please reach out by [directly messaging us on Patreon](https://www.patreon.com/messages)!
 
+Do I have to be an active subscriber to receive the upgrades?
+-------------------------------------------------------------
+
+Yes, your Patreon subscription must be active to receive the upgrades.
+
 Will Beat Sage always be free?
 ------------------------------
 
