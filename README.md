@@ -1,10 +1,15 @@
-# 🛸 BeatSaver arrives!
+# 🙏 Bonuses for Patreon subscribers!
 
-You may now upload levels from Beat Sage to [BeatSaver](https://beatsaver.com)! We worked with the folks at BeatSaver to make this happen and are excited about the new possibilities. Once you upload a Beat Sage map to BeatSaver, you may:
+We are beyond grateful to those of you who have [supported us on Patreon](https://www.patreon.com/beatsage). As a small token of appreciation, we have added some exclusive upgrades for Patreon subscribers!
 
-- Use the "!bsr 🔑" command to watch your favorite Beat Saber Twitch streamers play your favorite song!
-- Use [BeatSync](https://bsaber.com/beatsync/) to install levels from BeatSaver with one click!
+- For _Disciples_, **2x max level length** (up to 20 minutes)
+- For _Sages_, **3x max level length** (up to 30 minutes)
+- For _Gurus_, **3x max level length**, _and_ **immediate access to 360 Levels**!
 
-## 🎶 More songs!
+To activate these features, follow these three easy steps:
 
-We added support for level creation from several new websites and audio file formats. In addition to YouTube and Soundcloud, try pasting a link from ***TikTok***, ***Bandcamp***, ***Mixcloud***, or ***Beatport*** (note that subscription services like Spotify will not work). In addition to MP3, we now support ***AAC***, ***AIFF***, ***OGG***, ***FLAC***, and ***WAV*** files. We hope this makes it easier than ever to play Beat Saber to your favorite songs 💟
+1. [Join our Discord server](https://discord.beatsage.com)
+1. [Link your Discord account to your Patreon](https://www.patreon.com/settings-creator/apps)
+1. Activate upgrades via Step 0 below
+
+More information can be found in our FAQ below.

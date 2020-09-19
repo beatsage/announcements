@@ -10,6 +10,28 @@ To both keep the service free and reward our loyal supporters, we are
 offering some features only after we meet certain milestones of Patreon
 subscribers.
 
+What upgraded features do Patreon subscribers get?
+--------------------------------------------------
+
+Currently, Patreon subscribers get the following upgrades:
+
+- For _Disciples_, **2x max level length** (up to 20 minutes)
+- For _Sages_, **3x max level length** (up to 30 minutes)
+- For _Gurus_, **3x max level length**, _and_ **immediate access to 360 Levels**!
+
+Note that these may change over time. Stay tuned!
+
+How do I activate my Patreon upgrades?
+--------------------------------------
+
+To activate these features, follow these three easy steps:
+
+1. [Join our Discord server](https://discord.beatsage.com)
+1. [Link your Discord account to your Patreon](https://www.patreon.com/settings-creator/apps)
+1. Activate upgrades via Step 0 above
+
+If you are having _any_ trouble, please reach out by [directly messaging us on Patreon](https://www.patreon.com/messages)!
+
 Will Beat Sage always be free?
 ------------------------------
 
@@ -36,7 +58,7 @@ consider [supporting us on Patreon](https://www.patreon.com/beatsage).
 Can I upload levels created by Beat Sage to beatsaver.com?
 ----------------------------------------------------------
 
-**UPDATE**: It is now permitted to upload Beat Sage levels to BeatSaver! Previously this was not allowed, but we worked with the folks at BeatSaver to make this happen. You are encouraged to upload your favorite Beat Sage maps to BeatSaver and share them with others.
+**UPDATE**: It is now permitted to upload Beat Sage levels to BeatSaver! You are encouraged to upload your favorite Beat Sage maps to BeatSaver and share them with others.
 
 Why doesn't a particular YouTube video work?
 --------------------------------------------
