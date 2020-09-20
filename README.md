@@ -6,7 +6,7 @@ We are beyond grateful to those of you who have [supported us on Patreon](https:
 
 - For _Disciples_, **2x max level length** (up to 20 minutes)
 - For _Sages_, **3x max level length** (up to 30 minutes)
-- For _Gurus_, **3x max level length**, _and_ **immediate access to 360 Levels**!
+- For _Gurus_, **3x max level length**, _and_ **immediate access to 360 Degree Levels**!
 
 ## Activation
 
