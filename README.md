@@ -13,7 +13,7 @@ We are beyond grateful to those of you who have [supported us on Patreon](https:
 To activate these features, follow these three easy steps:
 
 - [Join our Discord server](https://discord.beatsage.com)
-- [Link your Discord account to your Patreon](https://www.patreon.com/settings-creator/apps)
+- [Link your Discord account to your Patreon](https://www.patreon.com/settings/apps)
 - Activate upgrades via Step 0 below
 
 More information can be found in our FAQ below.

@@ -27,7 +27,7 @@ How do I activate my Patreon upgrades?
 To activate these features, follow these three easy steps:
 
 1. [Join our Discord server](https://discord.beatsage.com)
-1. [Link your Discord account to your Patreon](https://www.patreon.com/settings-creator/apps)
+1. [Link your Discord account to your Patreon](https://www.patreon.com/settings/apps)
 1. Activate upgrades via Step 0 above
 
 If you are having _any_ trouble, please reach out by [directly messaging us on Patreon](https://www.patreon.com/messages)!
