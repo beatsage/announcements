@@ -16,4 +16,4 @@ To activate these features, follow these three easy steps:
 - [Link your Discord account to your Patreon](https://www.patreon.com/settings/apps)
 - Activate upgrades via Step 0 below
 
-More information can be found in our FAQ below.
+More information can be found in our FAQ below. Please [DM us on Patreon](https://www.patreon.com/messages) if you experience any difficulties.
