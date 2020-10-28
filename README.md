@@ -1,4 +1,4 @@
-## ⚠️: Creating levels from YouTube is currently unstable. If you are having trouble, keep retrying and eventually it should work, or upload an MP3 instead. We are looking into it!
+## ⚠️: **Creating levels from YouTube is currently unstable**. If you are having trouble, keep retrying and eventually it should work, or upload an MP3. We are looking into it!
 
 # 🙏 Bonuses for Patreon subscribers!
 
