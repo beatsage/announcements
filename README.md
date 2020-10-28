@@ -10,4 +10,4 @@ We are beyond grateful to those of you who have [supported us on Patreon](https:
 - For _Sages_, **3x max level length** (up to 30 minutes)
 - For _Gurus_, **immediate access to 360 Degree Levels** + 3x max level length.
 
-To activate these features, [see our FAQ](#user-content-how-do-i-activate-my-patreon-upgrades)
+Active patrons should [follow these instructions](#user-content-how-do-i-activate-my-patreon-upgrades) to activate their bonuses!
