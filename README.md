@@ -2,7 +2,7 @@
 
 # 🙏 Bonuses for Patreon subscribers!
 
-We are beyond grateful to those of you who have [supported us on Patreon](https://www.patreon.com/beatsage). As a small token of appreciation, we have added some exclusive bonus upgrades for Patreon subscribers!
+We are beyond grateful to those of you who have [supported us on Patreon](https://www.patreon.com/beatsage). As a small token of appreciation, we have added some exclusive bonus upgrades for Patreon subscribers, with more on the way!
 
 ## Bonuses
 
@@ -10,12 +10,4 @@ We are beyond grateful to those of you who have [supported us on Patreon](https:
 - For _Sages_, **3x max level length** (up to 30 minutes)
 - For _Gurus_, **immediate access to 360 Degree Levels** + 3x max level length.
 
-## Activation
-
-To activate these features, follow these three easy steps:
-
-- [Join our Discord server](https://discord.beatsage.com)
-- [Link your Discord account to your Patreon](https://www.patreon.com/settings/apps)
-- Activate upgrades via Step 0 below
-
-More information can be found in our FAQ below. Please [DM us on Patreon](https://www.patreon.com/messages) if you experience any difficulties.
+To activate these features, [see our FAQ](#user-content-how-do-i-activate-my-patreon-upgrades)
