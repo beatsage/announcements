@@ -63,7 +63,7 @@ consider [supporting us on Patreon](https://www.patreon.com/beatsage).
 Can I upload levels created by Beat Sage to beatsaver.com?
 ----------------------------------------------------------
 
-**UPDATE**: It is now permitted to upload Beat Sage levels to BeatSaver! You are encouraged to upload your favorite Beat Sage maps to BeatSaver and share them with others.
+You may upload your favorite Beat Sage maps to BeatSaver and share them with others.
 
 Why doesn't a particular YouTube video work?
 --------------------------------------------
