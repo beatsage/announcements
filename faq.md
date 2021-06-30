@@ -30,7 +30,7 @@ To activate these features, follow these three easy steps:
 1. [Link your Discord account to your Patreon](https://www.patreon.com/settings/apps)
 1. Activate upgrades via Step 0 above
 
-If you are having _any_ trouble, please reach out by [directly messaging us on Patreon](https://www.patreon.com/messages)!
+If you have followed all of these steps and your upgrades are not working, please try clearing your cookies for beatsage.com ([instructions](https://www.lifewire.com/clear-cookies-for-one-site-4587347)). If that does not fix the issue, please reach out by DMing a dev on Discord or [directly messaging us on Patreon](https://www.patreon.com/messages)!
 
 Do I have to be an active subscriber to receive the upgrades?
 -------------------------------------------------------------
