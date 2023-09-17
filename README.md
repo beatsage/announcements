@@ -1,4 +1,4 @@
-## 🆕 : **Level creation from YouTube has been fixed as of Sep 17 2023**. Apologies for any inconvenience 🙏
+## 🆕 : **Level creation from YouTube has been fixed as of Sep 17 2023**. Apologies for any inconvenience
 
 # 🙏 Bonuses for Patreon subscribers!
 
