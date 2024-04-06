@@ -1,4 +1,4 @@
-## 🆕 : **Level creation from YouTube has been fixed as of Sep 17 2023**. Apologies for any inconvenience
+## 🆕 : **Service resumed on Apr 6 2024**. Apologies for the downtime!
 
 # 🙏 Bonuses for Patreon subscribers!
 
