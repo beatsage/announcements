@@ -1,4 +1,4 @@
-## 🆕 : **Service resumed on Apr 6 2024**. Apologies for the downtime!
+## 🆕 : **Service resumed on Dec 22 2024**. Apologies for the downtime!
 
 # 🙏 Bonuses for Patreon subscribers!
 
